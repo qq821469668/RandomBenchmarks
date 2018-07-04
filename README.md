@@ -1,4 +1,4 @@
-# random_benchmark
+# RandomBenchmarks
 Random benchmark for MUSes extraction.
 
 ## Interpretation of filenames
